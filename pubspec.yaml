@@ -21,7 +21,8 @@ dev_dependencies:
 flutter:
 
   assets:
-    - assets/wheather_bg.jpg
+    - assets/wheather_v1.jpeg
+    - assets/rainy_blur.jpg
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
